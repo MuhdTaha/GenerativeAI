@@ -12,11 +12,13 @@ A simple Retrieval-Augmented Generation (RAG) system that allows you to ask ques
 
 ## 🧱 Tech Stack
 
+- [Python](https://www.python.org/)
 - [LangChain](https://github.com/langchain-ai/langchain)
 - [Qdrant](https://qdrant.tech/)
+- [Docker](https://www.docker.com/)
 - [LM Studio](https://lmstudio.ai/)
 - [PyTorch](https://pytorch.org/)
-- HuggingFace Embeddings
+- [HuggingFace Embeddings](https://python.langchain.com/api_reference/huggingface/embeddings/langchain_huggingface.embeddings.huggingface.HuggingFaceEmbeddings.html)
 
 ## 📦 Setup
 
